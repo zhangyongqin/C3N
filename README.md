@@ -39,3 +39,18 @@ To generate a repair image, use
 ```
 python 2test.py
 ```
+
+## Citation
+
+If you find our code or paper useful, please cite the paper:
+```bash
+@article{PengWZ23,
+title = {C3N: Content-constrained convolutional network for mural image completion},
+author = {Xianlin Peng, Huayu Zhao, Xiaoyu Wang, Yongqin Zhang, Zhan Li, Qunxi Zhang, Jun Wang, Jinye Peng, Haida Liang},
+journal = {Neural Computing and Applications},
+volume = {35},
+article id = {},
+pages = {1959-1970},
+year={2023}
+}
+```
